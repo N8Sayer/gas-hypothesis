@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Folders to ignore for this repo
+chrome-extension
+client
+node-modules
